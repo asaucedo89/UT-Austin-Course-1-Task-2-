@@ -1,5 +1,5 @@
 # UT Austin Course 1, Task 2
-Predicting Profitability
+Predicting Profitability with RapidMiner
 
 Team,
 
